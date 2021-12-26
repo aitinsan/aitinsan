@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Insan</h1>
-<h3 align="center">A amazing flutter developer from Kazakhstan</h3>
+<h3 align="center">An amazing flutter developer from Kazakhstan</h3>
 
 - 💬 Ask me about **Flutter**
 
